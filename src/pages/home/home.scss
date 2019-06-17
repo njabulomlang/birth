@@ -1,47 +1,12 @@
 page-home {
 
-.toolbar-background {
-    background-color: rgb(218, 143, 143);
-    
-  }
-  ion-card-header{
-    text-align: center;
-  
-  }
-  p{
-      width: 320px;
 
-  }
 ion-content{
-    background-image: url("../../assets/imgs/last-minute-gifts-tidiings-26182343_l-123rf_large.jpg");
-    width: 100%;
+    background-image: url("../../assets/imgs/pexels-photo-1919283.jpeg");
+   background-size: cover;
+
 }
-.from{
-    width: 120px;
-    height: 30px;
-    background-color: rgb(192, 156, 38);
-    margin-left: -50px;
-    border-radius: 10px;
-}
-.to{
-    width: 120px;
-    height: 30px;
-    background-color: rgb(192, 156, 38);
-    margin-right: 50px;
-    margin-left: 250px;
-    margin-top: 470px;
-    text-align: left;
-    border-radius: 10px;
-}
-.msg{
-    width: 210px;
-    height: 220px;
-    background-color: rgb(248, 3, 3);
-    margin: auto;
-    margin-top: -400px;
-    text-align: left;
-    border-radius: 10px;
-    opacity: .8;
-}
+
+
 
 }
